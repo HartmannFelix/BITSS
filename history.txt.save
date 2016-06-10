@@ -1,0 +1,283 @@
+    1  say test
+    2  say Annika
+    3  say Annika Linberg
+    4  say Felix
+    5  say Felix Hartmann
+    6  say hello
+    7  say physics
+    8  stephen hawking
+    9  say stephen hawking
+   10  say screen
+   11  say Hej
+   12  say h
+   13  say u
+   14  say squirrel
+   15  host gu.se
+   16  python
+   17  ?
+   18  python
+   19  gem install jekyll
+   20  lo
+   21  gem install jekyll
+   22  sudo gem install jekyll
+   23  gem install jekyll
+   24  sudo gem install jekyll
+   25  gem install jekyll
+   26  sudogem install jekyll
+   27  sudo
+   28  sudo sudo
+   29  gem install jekyll
+   30  cd Desktop
+   31  gitclone https://github.com/HartmannFelix/HartmannFelix.github.io
+   32  mkdir blog
+   33  cd blog
+   34  git init
+   35  blog xharfe$ touch index.html
+   36  touch index.html
+   37  git add .
+   38  git commit -m 'init'
+   39  git clone https://github.com/HartmannFelix/HartmannFelix.github.io
+   40  git status
+   41  git status
+   42  cd HartmannFelix.github.io/
+   43  git status
+   44  git add test.html
+   45  git status
+   46  git commit -m "test file"
+   47  git config --global -l
+   48  git config --global -l
+   49  set HOMEPATH=
+   50  git config --global -l
+   51  git config --global -l
+   52  git config --global user.name "xharfe"
+   53  git config --global user.email "felix.hartann@gu.se"
+   54  git config --global -l
+   55  git commit -m "test file"
+   56  git status
+   57  git push
+   58  git status
+   59  touch cname
+   60  nano cname
+   61  git add .
+   62  git commit -m 'cname'
+   63  git checkout
+   64  git push
+   65  git config --global push.default simple
+   66  git push
+   67  git push
+   68  git status
+   69  cd .
+   70  ls
+   71  cd ..
+   72  ls
+   73  git clone https://github.com/HartmannFelix/US-December-2014
+   74  ls
+   75  git status
+   76  cd ..
+   77  git status
+   78  cd blog
+   79  git status
+   80  git add
+   81  git add 
+   82  git add .
+   83  git commit -m "test"
+   84  git push
+   85   git --version
+   86  curl -s -O http://github-media-downloads.s3.amazonaws.com/osx/git-credential-osxkeychain
+   87  chmod u+x git-credential-osxkeychain
+   88  curl -s -O http://github-media-downloads.s3.amazonaws.com/osx/git-credential-osxkeychain
+   89  sudo mv git-credential-osxkeychain `dirname \`which git\``
+   90  git config --global credential.helper osxkeychain
+   91  git config --global credential.helper osxkeychain
+   92  git config --global credential.helper osxkeychain
+   93  git staus
+   94  git status
+   95  cd blog
+   96  mkdir website
+   97  cd 
+   98  git status
+   99  git init
+  100  git clone https://github.com/HartmannFelix/BITSS
+  101  git status
+  102  pwd
+  103  cd /Users/xharfe/BITSS/
+  104  pwd
+  105  git status
+  106  git status
+  107  git status
+  108  pwd
+  109  git status
+  110  cd BITSS
+  111  git status
+  112  git status
+  113  git status
+  114  git status
+  115  git status
+  116  git add hello.html
+  117  git add checklist.html
+  118  git status
+  119  git commit -m "change checklist"
+  120  git commit
+  121  git history
+  122  history
+  123  git log
+  124  pwd
+  125  ls 
+  126  ls -a
+  127  git remote add http://github.com/Hartmannfelix/BITSS
+  128  git remote add origin http://github.com/Hartmannfelix/BITSS
+  129  git remote 
+  130  git push origin master
+  131  pwd
+  132  ls
+  133  git remote -v
+  134  git remote upstream https://github.com/BIDS/ss-repro-case-public/blob/master/template.md
+  135  git remote add upstream https://github.com/BIDS/ss-repro-case-public/blob/master/template.md
+  136  git remote -v
+  137  git pull https://github.com/BIDS/ss-repro-case-public/blob/master/template.md
+  138  git fork https://github.com/BIDS/ss-repro-case-public/blob/master/template.md
+  139  git clone https://github.com/HartmannFelix/ss-repro-case-public.git
+  140  cd 
+  141  witch git
+  142  wich git
+  143  which git
+  144  git --version
+  145  git config --global core.editor "nano"
+  146  git config --global color.ui "auto"
+  147  pwd
+  148  cd /Users/BITSS
+  149  cd /Users/xharfe/BITSS/
+  150  mkdir Birdsurvey
+  151  git init
+  152  cd /Users/xharfe/BITSS/Birdsurvey/
+  153  git init
+  154  ls
+  155  git status
+  156  git add
+  157  git ass script.py
+  158  git add script.py
+  159  git status
+  160  git commit
+  161  git log
+  162  git status
+  163  git status
+  164  git add
+  165  git add script.py
+  166  git commit
+  167  git add
+  168  git add script.py
+  169  git commit
+  170  git commit
+  171  git status
+  172  git log
+  173  git config --global alias.lg "log --oneline --graph --decorate --all"
+  174  git lg
+  175  git checkout ff508c8
+  176  git lg
+  177  git checkout master
+  178  git lg
+  179  git checkout -b presentation
+  180  git lg
+  181  git branch
+  182  git commit -m "figure"
+  183  git commit -m"figure"
+  184  git add script.py
+  185  git commit -m "figure"
+  186  git commit -m "figure"
+  187  git add script.py
+  188  git commit -m "red line"
+  189  git checkout master
+  190  git lg
+  191  git add
+  192  git add script.py
+  193  git commit -m "bolder header"
+  194  git lg
+  195  git branch
+  196  git merge presentation
+  197  git lg
+  198  git reset --hard HEAD^1
+  199  git branch
+  200  git add script.py
+  201  git commit -m "vector"
+  202  git merge presentation
+  203  git status
+  204  git add script.py
+  205  git status
+  206  git commit -m "fixed merge"
+  207  git merge presentation
+  208  git branch
+  209  git add script.py
+  210  git commit -m "all rights"
+  211  git checkout -b experimental
+  212  git branch
+  213  git add script.py
+  214  git commit -m "experimental test"
+  215  git ckeckout master
+  216  git merge experimental
+  217  git checkout master
+  218  git merge experimental
+  219  git remote add http://github.com/Hartmannfelix/BITSS
+  220  git remote
+  221  git remote 
+  222  git remote add http://github.com/Hartmannfelix/BITSS
+  223  git remote add http://github.com/Hartmannfelix/BITSS
+  224  git remote add http://github.com/Hartmannfelix/BITSS
+  225  git remote add http://github.com/Hartmannfelix/BITSS/
+  226  git remote add http://github.com/Hartmannfelix/BITSS
+  227  git remote add origin http://github.com/Hartmannfelix/BITSS
+  228  git remote
+  229  git push 
+  230  git push -u origin master
+  231  ls -a
+  232  rm .git
+  233  rmdir .git
+  234  rmdir -f .git
+  235  rmdir --help
+  236  rmdir -rf .git
+  237  rmdir -f .git
+  238  rmdir --help
+  239  rmdir
+  240  rm -rf .git
+  241  git status
+  242  ls
+  243  git branch
+  244  pwd
+  245  git push -u origin master
+  246  cd /Users/xharfe/BITSS/
+  247  git status
+  248  git push -u origin master
+  249  git push
+  250  git remote add origin http://github.com/Hartmannfelix/BITSS
+  251  git push -u origin master
+  252  git status
+  253  git add *
+  254  git commit -m "evertyhing"
+  255  git push -u origin master
+  256  cd /Users/xharfe/BITSS/ss-repro-case-public/
+  257  pwd
+  258  ls -a
+  259  rm -rf .git
+  260  ls -a
+  261  cd ..
+  262  ls
+  263  rmdir ss
+  264  rmdir ss-repro-case-public/
+  265  rmdir -f ss-repro-case-public/
+  266  rm -rf ss-repro-case-public/
+  267  ls
+  268  git add
+  269  git add *
+  270  git commit -m "delete folder"
+  271  git rm
+  272  rm
+  273  git status
+  274  git rm ss-repro-case-public
+  275  git status
+  276  git push -u origin master
+  277  git commit -m "delete folder"
+  278  git push -u origin master
+  279  cat history > history.txt
+  280  history
+  281  history > history.txt
+
+
